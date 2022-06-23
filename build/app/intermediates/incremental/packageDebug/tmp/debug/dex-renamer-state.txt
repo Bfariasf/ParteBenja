@@ -1,0 +1,4 @@
+#Wed Jun 22 20:49:01 CLT 2022
+base.0=C\:\\Users\\Benjamin\\Desktop\\Proyecto movil\\APP-MOVIL-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
